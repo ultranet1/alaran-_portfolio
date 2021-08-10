@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/tags/scene/</link>
+    <description>Recent content in scene on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 10 : DATA ENGINEERING PROJECTS </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</link>
+      <pubDate>Sun, 01 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</guid>
+      <description>Welcome to my Cliche&amp;hellip;
+The advent of Big data no doubt has proliferated the need for Data Engineers.
+But what is Big data?
+They are data with 3 V&amp;rsquo;s and can&amp;rsquo;t be processed by traditional method.
+The 3 V&amp;rsquo;s are:
+ Volume(large like Gigabytes,Pb..), Velocity (frequent, stream, real-time&amp;hellip;) Variety ( different formats like csv, parquet, audio, video..)  This kind of data needs specialized infrastructures, Schema, Storage, Processing tools, automation &amp;amp; monitoring.</description>
+    </item>
+    
+  </channel>
+</rss>
