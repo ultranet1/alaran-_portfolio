@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Project &amp; Internships on ALARAN IBRAHIM</title>
+    <link>https://ultranet1.github.io/alaran_portfolio/post/</link>
+    <description>Recent content in  Project &amp; Internships on ALARAN IBRAHIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jul 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://ultranet1.github.io/alaran_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PROJECT 10 : DATA ENGINEERING PROJECTS </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</link>
+      <pubDate>Sun, 01 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-4/</guid>
+      <description>Welcome to my Cliche&amp;hellip;
+The advent of Big data no doubt has proliferated the need for Data Engineers.
+But what is Big data?
+They are data with 3 V&amp;rsquo;s and can&amp;rsquo;t be processed by traditional method.
+The 3 V&amp;rsquo;s are:
+ Volume(large like Gigabytes,Pb..), Velocity (frequent, stream, real-time&amp;hellip;) Variety ( different formats like csv, parquet, audio, video..)  This kind of data needs specialized infrastructures, Schema, Storage, Processing tools, automation &amp;amp; monitoring.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 7 (NLP &amp; Python Backend): MOVIE RECOMMENDATION SYSTEM WITH FLASK</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-2/</guid>
+      <description>Recommendation system is a NLP-based Machine learning project used to predict customer&amp;rsquo;s interest and items they might like.
+This is based on a lot of things like customer&amp;rsquo;s purchase history, purchased item&amp;rsquo;s categories, search or viewed items categories, item-item similarities, user-user similarities, CONTENT-BASED et cetera.
+This system has solved a lot problems and it&amp;rsquo;s been used widely by big sites like Amazon, Ebay, Facebook, Youtube, Netflix E.T.C
+There are different types of reccomender systems and each of them serve different purpose best.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 9 (Python Backend): DJANGO AUTHENTICATION SYSTEM </title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-3/</link>
+      <pubDate>Fri, 09 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-3/</guid>
+      <description>Authentication systems are security measures put in place to secure data and systems by requiring additional input beyond username and password for users to access a system. They are ideal for businesses with sensitive data or systems that require secure user accounts. As a pythoneer, the most popular backend web framework is django, others are flask, cherry pie E.T.C
+One of the perks of django is that it comes with a lot of in-built frameworks, one of them is the Auth.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 3 (web scraping): RAPE NEWS WEB-SCRAPER BOT</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 09 Mar 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-5/</guid>
+      <description>No doubt, the major challenge of data oriented professions in third world countries is lack of a reliable &amp;amp; democratic central database.
+Nigeria for example is yet to solve this problem fully.
+However, Data professionals need to collect data on their own, whether by traditional method or data mining.
+As we all know: DATA IS LIFE
+WEB SCRAPING PROCESS
+So what is with RAPE NEWS Web_scraper?
+Few weeks ago, a friend messaged me that he need a web-scraper for his project, he actually needs to get data on popular sites in Nigeria on rape cases during the lockdown (march - Septemeber 2020).</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 5 (Multi-cloud Integration): ETL PIPELINE CLOUD INTEGRATION OF PYSPARK WITH AWS AND GCS</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-7/</link>
+      <pubDate>Sun, 14 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-7/</guid>
+      <description>Why Multi-cloud?
+The answer is Stability and Cheaper price. What do I mean by stability? Few years ago AWS which is known as the backbone of the internet was down for some minutes, Imagine the loss and inconvenience.
+Also, using all services of a particular cloud service provider is costly (although more scalable).
+Which is why “You shouldn’t put all your eggs in one basket”
+Dont put all your eggs in a single basket</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 8 (NLP): BUILDING CHAT_BOT FOR CUSTOMERS SERVICE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-9/</link>
+      <pubDate>Sun, 14 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-9/</guid>
+      <description>Customer service no doubt is part of the core foundation holding a business together, and an organization that wish to make progress &amp;amp; beat the competition must satisfy there customers.
+Remember: “CUSTOMER IS KING”
+from hein on wine
+However, attending to customers can be monotonous, hence the solution is to automate some of the FAQs answers. Using chatterbot, the bot(Ultrabot) will use logical and best match to return likely answer.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 4 (automation) : AUTOMATING OFFICE BORING STUFFS</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</link>
+      <pubDate>Thu, 14 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-6/</guid>
+      <description>NOTE: I wrote this script based on my PC screen resolution(1366 x 768), so dont run it without using a compatible screen resolution or better still, adjust the code to fit your size.
+No doubt, repeating tasks in our office can be monotonous at times, It’s normal as we are humans, and not built to be repetitive This is not the case with bots, they can do our repetitive tasks without getting tired (there may be other reasons but tired is not one of them)</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 6 (computer vision) :DIAGNOSIS OF BREAST CANCER WITH ARTIFICIAL INTELLIGENCE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-8/</link>
+      <pubDate>Thu, 14 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-8/</guid>
+      <description>NOTE; The project is aimed at using histological features, CNN and classifiers, currently anatomical features is been used, This page will be updated as soon as the project is completed.
+Breast cancer is the second most common cancer among women in the United States and the leading cancer type in Nigeria Source.
+However, it can be prevented or managed by early diagnosis. Radiography and Palpation (observation) are the common method in 3rd world countries like Nigeria and other African countires.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 2 (analytics): SENTIMENT ANALYSIS OF SHOPRITE on Twitter</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-10/</link>
+      <pubDate>Sun, 10 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-10/</guid>
+      <description>It’s important to put the client first, and try as much as possible to seek and understand there opinion about a product or service.
+This project is aimed at analyzing:
+ Tweeps (twitter user’s) emotion about shoprite Most occurring words in tweets Top Tweeps on ShopRite trend table.  Word-cloud of shoprite-related tweets
+METHOD  To use Tweepy API to scrape relevant tweets from twitter, (Unfortunately twitter restricted the maximum scrap tweets to 2-3000) (But I am going to revisit this project using tools like Selenium, Bs4 or scrapy).</description>
+    </item>
+    
+    <item>
+      <title>PROJECT 1 (time-series):PREDICTING UNEMPLOYMENT RATE IN OSUN STATE</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-11/</link>
+      <pubDate>Thu, 10 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-11/</guid>
+      <description>Freedom park, Osogbo (2020)s This project is aim at solving problems &amp;amp; getting insights indigenous to my country Nigeria, Osun state to be precise. I initially used a linear regression model, but since I am now with more skills, I have choosen to use FbProphet model(Time_series_analysis).
+Although, there is a challenge of a reliable central data in Nigeria, I was able to scrap data from opendataforafrica.org using pandas library. Also, I used python library like seaborn, matplotlib, scipy, fbprophet ETC.</description>
+    </item>
+    
+    <item>
+      <title>INTERNSHIPS</title>
+      <link>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</link>
+      <pubDate>Wed, 01 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ultranet1.github.io/alaran_portfolio/post/chapter-1/</guid>
+      <description>1) Tech Consulting Intern @ DELOITTE Date:May 2021 – Present
+ Technology strategy &amp;amp; innovation;
+Client Discovery
+Design a Business Case
+Considerations For Mobilization Cloud Engineering;
+Understanding Cloud Computing
+Cloud Feasibility Assessment
+Cloud Readiness Assessment Optimization &amp;amp; delivery;
+Define the project approach
+Conduct a market scan
+Further analysis &amp;amp; solution presentation  2) Data Engineering &amp;amp; Analytics @ GENERAL ELECTRIC Date:April 2021 – May 2021
+ Data Engineering;
+Postgres/SQL
+Data orchestration &amp;amp; transformation</description>
+    </item>
+    
+  </channel>
+</rss>
